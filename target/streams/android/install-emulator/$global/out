@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0m/home/vince/dev/android-sdk-linux/platform-tools/adb -e install -r  /home/vince/dev/scala/my-android-project/target/my-android-project-0.1.apk[0m
+[0m[[0minfo[0m] [0m2355 KB/s (128558 bytes in 0.053s)[0m
+[0m[[0minfo[0m] [0m	pkg: /data/local/tmp/my-android-project-0.1.apk[0m
+[0m[[0minfo[0m] [0mSuccess[0m

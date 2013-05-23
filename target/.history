@@ -1,0 +1,17 @@
+sbt android:package-debug
+android:package-debug
+android:emulator-start
+android:emulator-start none
+android:package-debug
+last main/android:dx
+android:package-debug
+android:start-device
+android:emulator-start Nexus
+android:start-emulator
+android:start-device
+android:start-debug
+android:emulator-start Nexus
+android:start-emulator
+compile
+android:package-debug
+android:start-emulator

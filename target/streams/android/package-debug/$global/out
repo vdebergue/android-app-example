@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0mPackaging /home/vince/dev/scala/my-android-project/target/my-android-project-0.1.apk[0m
+[0m[[0mdebug[0m] [0mUsing keystore: /home/vince/.android/debug.keystore[0m
+[0m[[0mdebug[0m] [0mPackaging my-android-project-0.1.apk[0m
+[0m[[0mdebug[0m] [0m/home/vince/dev/scala/my-android-project/target/resources.apk:[0m
+[0m[[0mdebug[0m] [0m=> res/layout/main.xml[0m
+[0m[[0mdebug[0m] [0m=> AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0m=> resources.arsc[0m
+[0m[[0mdebug[0m] [0m/home/vince/dev/scala/my-android-project/target/classes.dex => classes.dex[0m
+[0m[[0mdebug[0m] [0m/home/vince/dev/scala/my-android-project/target/classes.min.jar:[0m
+[0m[[0mdebug[0m] [0m=> library.properties[0m

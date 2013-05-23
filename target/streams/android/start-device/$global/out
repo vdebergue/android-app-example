@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0m/home/vince/dev/android-sdk-linux/platform-tools/adb -d shell am start -a android.intent.action.MAIN -n com.github.vdebergue.testapp/.MainActivity[0m
+[0m[[0minfo[0m] [0mStarting: Intent { act=android.intent.action.MAIN cmp=com.github.vdebergue.testapp/.MainActivity }[0m
+[0m[[0minfo[0m] [0mError type 3[0m
+[0m[[0minfo[0m] [0mError: Activity class {com.github.vdebergue.testapp/com.github.vdebergue.testapp.MainActivity} does not exist.[0m
